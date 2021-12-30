@@ -9,7 +9,7 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "/Blog/" # the subpath of your site, e.g. /blog
-url: "https://alfredamboka.github.io/getcash/" # the base hostname & protocol for your site
+url: "https://alfredamboka.github.io/money-casher" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
